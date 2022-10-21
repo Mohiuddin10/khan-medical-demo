@@ -7,3 +7,22 @@
 .khan-logo {
     width: 120px;
 }
+nav {
+    background-color: #E8EEEE;
+}
+.nav-item a:hover {
+    background-color: lightblue;
+    border-radius: 5px;
+    box-shadow: 0 0 20px gray;
+    
+}
+.intro-description {
+    width: 100%;
+}
+.intro {
+    background-color: #E8EEEE;
+    align-items: center;
+}
+.img img {
+    box-shadow: 5px 5px 20px lightgray;
+}
