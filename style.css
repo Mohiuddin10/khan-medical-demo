@@ -45,3 +45,17 @@ span {
     border-radius: 15px;
     box-shadow: 10px 10px 30px gray;
 }
+.about-img1 {
+    max-height: 400px;
+    width: 100%;
+    box-shadow: none;
+    
+}
+.part-1 {
+    background-color: pink;
+}
+.heading {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+}
