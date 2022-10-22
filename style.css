@@ -57,5 +57,19 @@ span {
 .heading {
     width: 100%;
     text-align: center;
-    align-items: center;
+}
+
+.about-heading {
+    transform: rotate(-90deg);
+    width: 900px;
+    height: 200px;
+    border: 2px solid black;
+}
+.description {
+    border: 2px solid red;
+}
+.part-2 {
+    margin: 0;
+    border: 5px solid yellow;
+    height: 400px;
 }
